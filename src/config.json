@@ -1,0 +1,9 @@
+{
+    "paths": {
+        "data": "data"
+    },
+    "dataset":{
+        "size": 100,
+        "subset_size": 100
+    }
+}
